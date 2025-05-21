@@ -33,9 +33,9 @@
 # url and image uploads
 
 
-1. [skills](../Mark-down/folder/skills.md)
+1. [skills](./folder/skills.md)
 2. [portfolio](https://www.youtube.com/)
-3. [details](../Mark-down/folder/folder1/details.md)
+3. [details](./folder/folder1/details.md)
 
 
 #### Image
