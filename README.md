@@ -30,9 +30,19 @@
 >
 ***Total = 1100***
 
+# url and image uploads
 
 
+1. [skills](../Mark-down/folder/skills.md)
+2. [portfolio](https://www.youtube.com/)
+3. [details](../Mark-down/folder/folder1/details.md)
 
+
+#### Image
+
+![frontend](https://www.softsuave.com/blog/wp-content/uploads/2023/01/Top-factors-of-frontend-frameworks-1-1024x579.png)
+
+![backend](https://ftechiz.com/wp-content/uploads/2024/09/41.jpg)
 
 
 
